@@ -1,5 +1,4 @@
-# Hi 👋 I'm Ahmed HASAN    [![](https://visitcount.itsvg.in/api?id=ahmedMHASAN&icon=5&color=1)](https://visitcount.itsvg.in)
-
+# Hi 👋 I'm Ahmed HASAN    
 
 
 A full-stack developer currently living in Türkiye <img src="https://img.icons8.com/?size=20&id=7PhX5XSLeDb9&format=png" width="20"/>	:tr:. Currently working on ERP systems for the marine industry and developing marine vessel IoT solutions.
@@ -7,6 +6,11 @@ A full-stack developer currently living in Türkiye <img src="https://img.icons8
 
 <!-- # 💫 About Me: --> 
 🔭 I'm currently planning, developing, and code reviewing an ERP system targeting marine systems and platforms, as well as marine vessel IoT systems.<br>🌱 I'm proficient in Go, and I'm constantly working with technologies like Groovy, AngularJS, Jasper Reports, Modbus, Elastic Stack (ELK), SQL, Docker, Grails, React Native, and more.<br>🚀 I work with a variety of frameworks including Java, JS, PHP, Angular JS, React, Node JS, and React Native.<br>🎻 In my free time, I enjoy playing the violin, exploring the world of music.<br><br>💻 I specialize in Grails, Laravel, and Express for web development.<br>🛠️ I work with databases like Oracle, MySQL, MsSQL, and MongoDB.<br>🎨 I have experience with UI/UX design using Bootstrap, Kendo UI, HTML5, and CSS.<br>📊 I'm skilled in generating reports with Jasper Reports.<br>📦 I'm proficient with version control using Git and containerization with Docker.<br><br>🌍 I'm multilingual, speaking Arabic (Native), English, Turkish, and I'm a beginner in Spanish.<br><br>📫 How to reach me: abu8ammed@gmail.com.
+
+
+
+[![](https://visitcount.itsvg.in/api?id=ahmedMHASAN&icon=5&color=1)](https://visitcount.itsvg.in) [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/abu8ammedi) 
+   
 
 
 ## 🌐 Socials:
@@ -18,16 +22,16 @@ A full-stack developer currently living in Türkiye <img src="https://img.icons8
 ## 📊 GitHub Stats: 
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedMHASAN&theme=default&hide_border=true&include_all_commits=true&count_private=true)
-<br/>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedMHASAN&theme=default&hide_border=true)
-<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedMHASAN&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-<br/>
-![Top Contributions](https://github-contributor-stats.vercel.app/api?username=ahmedMHASAN&limit=5&theme=flat&combine_all_yearly_contributions=true)
+    <img src="https://github-readme-stats.vercel.app/api?username=ahmedMHASAN&theme=default&hide_border=true&include_all_commits=true&count_private=true">
+    <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedMHASAN&theme=default&hide_border=true">
+    <br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedMHASAN&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+    <br/>
+    <img src="https://github-contributor-stats.vercel.app/api?username=ahmedMHASAN&limit=5&theme=flat&combine_all_yearly_contributions=true">
 
 </div>
+
 
 
 ## 🏆 GitHub Trophies: 
